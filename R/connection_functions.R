@@ -17,7 +17,7 @@
 ucr_api_key <- "wD7QRfAGjIdojtrdNgBk51BIYVMmbZaqsb3qGQKC"
 
 # Set the endpoint the queries will be sent to
-endpoint <- "https://api.usa.gov/crime/fbi/ucr"
+endpoint <- "https://api.usa.gov/crime/fbi/sapi"
 
 # A list of offenses available for queries
 offense_list <- c('aggravated-assault', 'arson', 'burglary', 'larceny', 'motor-vehicle-theft', 'homicide', 'rape', 'robbery')
